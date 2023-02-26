@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1> Hi 👋, I'm Sujeet Kumar Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="img1.jpg">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetkumarpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetkumarpatel" /> </p>
 
 - 🔭 I’m currently working on **Myself-better**
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetkumarpatel&show_icons=true&locale=en" alt="sujeetkumarpatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetkumarpatel&" alt="sujeetkumarpatel" /></p>
-
